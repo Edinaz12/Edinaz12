@@ -42,7 +42,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Edinaz12/Edinaz12/output/snake-dark.svg" alt="snake animation" width="100%"/>
+
 
 </div>
 

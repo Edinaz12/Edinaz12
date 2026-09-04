@@ -3,7 +3,7 @@
 
 <a href="https://3dinaz.com/">
   <img
-    src="profile.svg"
+    src="https://raw.githubusercontent.com/Edinaz12/Edinaz12/main/profile.svg"
     width="100%"
     alt="3dinaz"
   />
@@ -58,13 +58,13 @@
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Edinaz12&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
+  src="https://github-readme-stats-fast.vercel.app/api?username=Edinaz12&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"
   alt="GitHub statistics"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edinaz12&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=8"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edinaz12&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=8"
   alt="Top programming languages"
 />
 

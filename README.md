@@ -8,7 +8,7 @@
 <br/>
 
 <!-- clickable links (SVG-internal links don't work on GitHub, so these live here) -->
-[![Visit ezn.sys](https://img.shields.io/badge/visit-ezn.sys-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ezn.sys)
+[![Visit ezn.sys](https://img.shields.io/badge/visit-ezn.sys-000000?style=for-the-badge&logo=googlechrome&logoColor=white)]((https://3dinaz.com/))
 &nbsp;
 <a href="https://github.com/Edinaz12">
   <img src="https://img.shields.io/badge/GitHub-Edinaz12-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
